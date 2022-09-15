@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  vendor: one
+  list_price: 9.99
+  sell_price: 9.99
+  on_sell: false
+  code: MyString
+  deleted_at: 2022-06-22 19:46:17
+
+two:
+  name: MyString
+  vendor: two
+  list_price: 9.99
+  sell_price: 9.99
+  on_sell: false
+  code: MyString
+  deleted_at: 2022-06-22 19:46:17
